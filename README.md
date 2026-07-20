@@ -128,7 +128,7 @@ To become a Business Analyst who transforms business requirements into data-driv
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="(https://ph.linkedin.com/in/cyrell-sayre-361808377)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
