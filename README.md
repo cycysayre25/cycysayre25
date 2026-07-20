@@ -79,16 +79,15 @@ To become a Business Analyst who transforms business requirements into data-driv
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=cycysayre25&show_icons=true&theme=github_dark&cache_seconds=1800"/>
+<img height="180" src="https://github-readme-stats-one-bice.vercel.app/api?username=cycysayre25&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cycysayre25&layout=compact&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=cycysayre25&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
-
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=cycysayre25&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=cycysayre25&theme=tokyonight&hide_border=true"/>
 
 </p>
 
