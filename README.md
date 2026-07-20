@@ -1,5 +1,5 @@
 <p align="center">
-<img src="images/banner2.jpg" width="100%">
+<img src="images/banner1" width="100%">
 </p>
 
 <h1 align="center">
@@ -12,46 +12,57 @@ Business Analyst • Computer Scientist • Data Enthusiast
 
 <p align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Business+Analyst;Computer+Science+Graduate;Magna+Cum+Laude;MSCS+Student;SQL+%7C+Excel+%7C+Power+BI+%7C+Python" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Business+Analyst;Computer+Science+Graduate+(Magna+Cum+Laude);MSCS+Student;SQL+%7C+Excel+%7C+Power+BI+%7C+Python;Turning+Data+Into+Business+Solutions" />
 </a>
 </p>
 
 
 
-<!-- <p align="center">
-<img src="YOUR_BANNER_URL" width="100%">
-</p> -->
-
-
-
 ## 👨‍💻 About Me
 
-🎓 BS Computer Science Graduate (Magna Cum Laude)
+| | |
+|:---|:---|
+| 🎓 Education | BS Computer Science (Magna Cum Laude) |
+| 🎓 Graduate Studies | MS Computer Science |
+| 💼 Current Role | Credit Balance Analyst |
+| 🏥 Industry | Healthcare Revenue Cycle Management |
+| 🎯 Career Goal | Business Analyst |
+| 🌍 Location | Philippines |
 
-🎓 Master of Science in Computer Science Student
 
-💼 Credit Balance Analyst | Healthcare Revenue Cycle Management
 
-📊 Aspiring Business Analyst
 
-🌱 Currently learning
+## 🌱 Currently Learning
 
-- Business Analysis
-- SQL
+- Business Analysis (BABOK)
+- SQL Optimization
 - Power BI
-- Python
+- Python Automation
+- Agile & Scrum
 - Git & GitHub
-- Process Automation
 
-🚀 Currently Building
 
-- Excel Budget Dashboard
-- SQL Portfolio
-- Business Analysis Portfolio
-- Power BI Dashboards
-- Python Automation Projects
 
-🎯 Career Goal
+
+## 💻 Programming Languages
+
+Python Java C# C++
+
+## 🌐 Web
+
+HTML CSS JavaScript
+
+## 🗄 Database
+
+MySQL PostgreSQL SQL Server
+
+## ⚙ Development Tools
+
+Git GitHub VS Code
+
+
+
+## 🎯 Career Goal
 
 To become a Business Analyst who transforms business requirements into data-driven solutions.
 
@@ -69,19 +80,22 @@ To become a Business Analyst who transforms business requirements into data-driv
 
 ## 📊 Business Analyst Tools
 
+
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=excel,powershell"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira"/>
+
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence"/>
+
+<img src="https://img.shields.io/badge/Lucidchart-F47C20?style=for-the-badge"/>
 
 </p>
-
-- Microsoft Excel
-- SQL
-- Power BI
-- Visio
-- Jira
-- Confluence
-- Lucidchart
 
 
 
@@ -148,11 +162,11 @@ To become a Business Analyst who transforms business requirements into data-driv
 
 
 <a href="https://www.facebook.com/cyrellswift25">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=ogoColor=white"/>
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/_cyrell.x">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&gram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 
@@ -161,19 +175,37 @@ To become a Business Analyst who transforms business requirements into data-driv
 
 ## 🌟 Featured Projects
 
-📊 Excel Budget Dashboard
+| Project | Description |
+|---------|-------------|
+| 📊 Excel Budget Dashboard | Personal finance dashboard with charts and analytics |
+| 📈 Business Analyst Portfolio | BRDs, UML diagrams, process flows |
+| 🗄 SQL Portfolio | SQL practice, joins, CTEs, window functions |
+| 📉 Power BI Dashboard | Interactive reports and KPIs |
+| 🐍 Python Automation | Scripts to automate repetitive tasks |
 
-📈 Business Analyst Portfolio
+## 📜 Certifications
 
-🗄 SQL Portfolio
+- Microsoft Excel
+- SQL
+- Power BI
+- Python
+- Business Analysis (In Progress)
 
-📉 Power BI Dashboard
+## 🏅 Professional Highlights
 
-🐍 Python Automation
+🏆 Magna Cum Laude Graduate
 
-📚 MSCS Projects
+🎓 MS Computer Science Student
+
+💼 Credit Balance Analyst
+
+📊 Aspiring Business Analyst
+
+📈 SQL • Excel • Power BI • Python
+
+🏥 Healthcare Revenue Cycle Management
 
 
 ## 💭 Favorite Quote
 
-> "Without data, you're just another person with an opinion." — W. Edwards Deming
+> "Transforming business challenges into data-driven solutions"
