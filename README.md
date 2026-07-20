@@ -111,16 +111,16 @@ To become a Business Analyst who transforms business requirements into data-driv
 </p>
 
 
-## Profile Visitors
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cycysayre25&theme=algolia&margin-w=15">
+  <img src="https://github-profile-trophy.vercel.app/?username=cycysayre25&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 
+## 👀 Profile Visitors
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=cycysayre25&label=Visitors&color=0e75b6&style=flat"/>
-
+  <img src="https://komarev.com/ghpvc/?username=cycysayre25&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 
