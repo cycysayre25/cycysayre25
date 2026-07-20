@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Cyrell 👋
 
-<!--
-**cycysayre25/cycysayre25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+💼 Recovery/ReSols Representative
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning:
+- GitHub
+- Web Development
+- Automation
+
+🔭 Working on:
+- Personal projects
+- Building my GitHub portfolio
+
+## Skills
+
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=SS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=oColor=white
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-thevascript&logoColor=black
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-nkedin](https://linkedin.com)
+
+📧 tecascyrell25@gmail.com
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/cycysayre25/cycysayre25/outputn-grid-snake.svg
