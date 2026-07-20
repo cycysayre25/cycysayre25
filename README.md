@@ -134,12 +134,13 @@ To become a Business Analyst who transforms business requirements into data-driv
 
 </p>
 
-
+<!--
 ## 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=cycysayre25&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
+</p> 
+-->
 
 ## 👀 Profile Visitors
 
