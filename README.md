@@ -1,5 +1,5 @@
 <p align="center">
-<img src="images/banner1" width="100%">
+<img src="images/banner2" width="300">
 </p>
 
 <h1 align="center">
@@ -184,29 +184,47 @@ To become a Business Analyst who transforms business requirements into data-driv
 | 📉 Power BI Dashboard | Interactive reports and KPIs |
 | 🐍 Python Automation | Scripts to automate repetitive tasks |
 
-## 📜 Certifications
 
-- Microsoft Excel
-- SQL
-- Power BI
-- Python
-- Business Analysis (In Progress)
 
-## 🏅 Professional Highlights
+<h2 align="">📜 Certifications & Professional Development</h2>
 
-🏆 Magna Cum Laude Graduate
+<p align="">
+📊 Microsoft Excel<br>
+🗄️ SQL<br>
+📈 Power BI<br>
+🐍 Python<br>
+📋 Business Analysis (In Progress)
+</p>
 
-🎓 MS Computer Science Student
 
-💼 Credit Balance Analyst
 
-📊 Aspiring Business Analyst
 
-📈 SQL • Excel • Power BI • Python
 
+<h2 align="">🏅 Professional Highlights</h2>
+
+<p align="">
+🌟 Academic Excellence • 💡 Data-Driven Mindset • 🚀 Continuous Growth
+</p>
+
+<p align="">
+🎓 Magna Cum Laude Graduate <br>
+📚 MS Computer Science Student <br>
+💼 Credit Balance Analyst <br>
+📊 Aspiring Business Analyst <br>
+🛠️ SQL • Excel • Power BI • Python <br>
 🏥 Healthcare Revenue Cycle Management
+</p>
 
 
-## 💭 Favorite Quote
+<h2 align="center">💭 Favorite Quote</h2>
 
-> "Transforming business challenges into data-driven solutions"
+<p align="center">
+  <i>
+    "Transforming business challenges into data-driven solutions that drive growth, innovation, and meaningful impact."
+  </i>
+</p>
+
+<p align="center">
+  📊 Data-Driven • 🚀 Solution-Oriented • 💡 Continuous Learner
+</p>
+
