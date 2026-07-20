@@ -136,6 +136,16 @@ To become a Business Analyst who transforms business requirements into data-driv
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
+
+<a href="https://www.facebook.com/cyrellswift25">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=ogoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/@_cyrell.x">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&gram&logoColor=white"/>
+</a>
+
+
 </p>
 
 
