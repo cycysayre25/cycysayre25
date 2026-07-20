@@ -27,4 +27,4 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/cycysayre25/cycysayre25/output/github-nake.svg)
+![Snake animation](https://raw.githubusercontent.com/cycysayre25/cycysayre25/output/github-contribution-grid-snake.svg)
