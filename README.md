@@ -1,30 +1,192 @@
-# Hi, I'm Cyrell 👋
+<h1 align="center">Hi 👋, I'm Cyrell Sayre</h1>
 
-## About Me
+<p align="center">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Business+Analyst;Computer+Science+Graduate;Magna+Cum+Laude;MSCS+Student;SQL+%7C+Excel+%7C+Power+BI+%7C+Python" />
+</a>
+</p>
 
-💼 Recovery/ReSols Representative
 
-🌱 Currently learning:
-- GitHub
-- Web Development
-- Automation
 
-🔭 Working on:
-- Personal projects
-- Building my GitHub portfolio
+<!-- <p align="center">
+<img src="YOUR_BANNER_URL" width="100%">
+</p> -->
 
-## Skills
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?stylebadge&logohtml5&logoColor=for-the-badge&5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&t&logoColor=black)
 
-## Connect With Me
+## 👨‍💻 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+🎓 BS Computer Science Graduate (Magna Cum Laude)
 
-📧 tecascyrell25@gmail.com
+🎓 Master of Science in Computer Science Student
+
+💼 Credit Balance Analyst | Healthcare Revenue Cycle Management
+
+📊 Aspiring Business Analyst
+
+🌱 Currently learning
+
+- Business Analysis
+- SQL
+- Power BI
+- Python
+- Git & GitHub
+- Process Automation
+
+🚀 Currently Building
+
+- Excel Budget Dashboard
+- SQL Portfolio
+- Business Analysis Portfolio
+- Power BI Dashboards
+- Python Automation Projects
+
+🎯 Career Goal
+
+To become a Business Analyst who transforms business requirements into data-driven solutions.
+
+
+
+## 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cs,cpp,html,css,javascript,git,github,vscode,mysql,postgres"/>
+
+</p>
+
+
+
+## 📊 Business Analyst Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=excel,powershell"/>
+
+</p>
+
+- Microsoft Excel
+- SQL
+- Power BI
+- Visio
+- Jira
+- Confluence
+- Lucidchart
+
+
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=cycysayre25&theme=tokyonight"/>
+
+</p>
+
+
+
+## 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cycysayre25&theme=tokyo-night"/>
+
+</p>
+
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/cycysayre25/cycysayre25/output/github-contribution-grid-snake.svg)
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/cycysayre25/cycysayre25/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=cycysayre25&theme=algolia&margin-w=15"/>
+
+</p>
+
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=cycysayre25&label=Visitors&color=0e75b6&style=flat"/>
+
+</p>
+
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+
+## 🌟 Featured Projects
+
+📊 Excel Budget Dashboard
+
+📈 Business Analyst Portfolio
+
+🗄 SQL Portfolio
+
+📉 Power BI Dashboard
+
+🐍 Python Automation
+
+📚 MSCS Projects
+
+
+## 💭 Favorite Quote
+
+> "Without data, you're just another person with an opinion." — W. Edwards Deming
+
+
+name: Generate Snake
+
+on:
+schedule:
+- cron: "0 */12 * * *"
+workflow_dispatch:
+
+jobs:
+generate:
+runs-on: ubuntu-latest
+permissions:
+contents: write
+
+steps:
+- uses: Platane/snk@v3
+with:
+github_user_name: cycysayre25
+outputs: |
+dist/github-contribution-grid-snake.svg
+dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+- uses: crazy-max/ghaction-github-pages@v4
+with:
+target_branch: output
+build_dir: dist
+env:
+GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
