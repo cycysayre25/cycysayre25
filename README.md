@@ -1,4 +1,14 @@
-<h1 align="center">Hi 👋, I'm Cyrell Sayre</h1>
+<p align="center">
+<img src="images/banner2.jpg" width="100%">
+</p>
+
+<h1 align="center">
+Hi 👋 I'm Cyrell Sayre
+</h1>
+
+<h3 align="center">
+Business Analyst • Computer Scientist • Data Enthusiast
+</h3>
 
 <p align="center">
 <a href="https://git.io/typing-svg">
