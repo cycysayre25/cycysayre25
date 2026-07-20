@@ -161,9 +161,3 @@ To become a Business Analyst who transforms business requirements into data-driv
 ## 💭 Favorite Quote
 
 > "Without data, you're just another person with an opinion." — W. Edwards Deming
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cycysayre25/cycysayre25/output/github-contribution-grid-snake-dark.svg"/>
-</p>
